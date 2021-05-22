@@ -1,0 +1,12 @@
+{
+  "name": "Adgram",
+  "displayName": "Adgram",
+  "expo": {
+    "name": "Adgram",
+    "slug": "Adgram",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
